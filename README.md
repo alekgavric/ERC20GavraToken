@@ -113,4 +113,13 @@ Listening on localhost:8545
 We should save the addresses and private keys above to use for testing later
 
 ### Connecting Metamask to TestRPC
-In your Chrome Browswer, you click Metamask icon on left-top corrner. Click the icon to open it and choose the Localhost 8545 network
+In your Chrome Browswer, you click Metamask icon on left-top corrner. Click the icon to open it and choose the Localhost 8545 network. Click to the account icon on top-left of Metamask, choose Import Account. Copy & Paste the private key that you got from TestRPC, click Import. If success, you have 100 ETH in your account.
+
+### Deploy to Testnet
+After finishing the smart contract in the local development environment, we should deploy it to the Testnet (Ropsten, Kovan, Rinkeby)
+
+There are many tools to deploy the smart contract to the testnets (you can do it with Truffle). In this tutorial, we will use two tools Remix and Metamask Wallet
+
+To deploy Smart Contract, we have to have Ether to pay for Gas, that is fees for the deployment. Following the steps below to get free ethers.
+Click Metamask on Chrome, select Testnet - Ropsten.
+To get free Ether, we click BUY button from the account screen. And click ROPSTEN TEST FAUCET to go site https://faucet.metamask.io/. On the site, we click button request 1 ether from faucet. Waiting a minute, we have 1 ether in our account.

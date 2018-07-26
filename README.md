@@ -12,14 +12,6 @@ Lybrary can be found on following link: [https://github.com/OpenZeppelin/openzep
 ## Introductions
 This project will show you step by step to develop a ICO Smart Contract.
 
-Before reading this tutorial, you should have:
-
-## Basic Blockchain Knowledge
-Experience with a programing language (prefer NodeJS)
-
-## Who can read this tutorial
-Developers who heard Blockchain but never try it
-Developers who want to write Smart Contract for ICO
 
 ## Steps to develope a ICO Smart Contract
 Step 1: Developers write ICO Smart Contract (using Solidity)

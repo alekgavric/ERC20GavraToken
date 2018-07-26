@@ -77,7 +77,7 @@ The output:
 
 EthereumJS TestRPC v4.1.3 (ganache-core: 1.1.3)
 
-Available Accounts
+#### Available Accounts
 ==================
 (0) 0x3adf9233e248e3bedee82f500a219b34df52efab
 (1) 0x636955e24318504d421b9585bcc6f75a149beca9
@@ -90,7 +90,7 @@ Available Accounts
 (8) 0x11cc28dd913b08c4a0799402c0862c2ca9a4c7b2
 (9) 0xf87a66e94f54a0081c90b796359784b83c836185
 
-### Private Keys
+##### Private Keys
 ==================
 (0) 61d6a2f9f324e49166605207812a913ee218692d8a8091a04c67ce4b40fc4c0b
 (1) 2d27cb1117912b171e7add216ce02c5143251cafcd28a80ab39413b618c81f4e
@@ -103,7 +103,7 @@ Available Accounts
 (8) 9e4452e0e2d7b49af1ab5df90155b6e8b00905b6f82e2bd89753fa0f557a5a24
 (9) f799a3b06db770a270d7cdba9f046defa8c16cbbfae4fbdc8b0472ab2b003a05
 
-### HD Wallet
+##### HD Wallet
 ==================
 Mnemonic:      night theme swap thunder fiction equal danger provide vessel hazard design kid
 Base HD Path:  m/44'/60'/0'/0/{account_index}
